@@ -1,0 +1,4 @@
+body: #4a3e4f
+cabecera: #c7bccc
+texto: #c7bccc
+texto-seleccionado: #c9b655

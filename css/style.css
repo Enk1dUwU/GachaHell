@@ -1,0 +1,76 @@
+* {margin: 0%; padding: 0%;}
+body 
+{
+    background-color: #4a3e4f;
+    overflow-x: hidden;
+}
+#select {color: #c9b655;text-decoration: underline;}
+.cabecera
+{
+    width: 100%;
+    height: 15%;
+    background-color: #382b3d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cabecera a
+{
+    text-decoration: none;
+    color: #c7bccc;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 5%;
+    margin-left: 5%;
+    transition: transform .3s;
+}
+.cabecera a:hover
+{
+    text-decoration: underline;
+    color: #c9b655;
+    transform: scale(1.2);
+}
+.contenido
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: fit-content;
+}
+#main
+{
+    flex-direction: row;
+}
+.subcont
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1%;
+    width: 30%;
+    height: 30%;
+    background-color: #382b3d;
+}
+.subcont a {text-decoration: none; color: #c7bccc; font-size: 40px; font-weight: bold;}
+.bar
+{
+    width: 80%;
+    height: 10%;
+    background-color: #382b3d;
+    margin-top: 1%;
+    text-align: center;
+    font-size: 40px;
+    color: #c7bccc;
+    font-weight: bold;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.buildcont
+{
+    margin-left: 40%;
+    margin-top: 1%;
+    width: 100%;
+    height: 600px;
+}
