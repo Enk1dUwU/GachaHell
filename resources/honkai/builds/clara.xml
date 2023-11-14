@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE builds>
+<?xml-stylesheet href="../../../css/builds_hsr.css"?>
+
+<builds>
+    <build xmlns="http://www.w3.org/1999/xhtml">
+        <personaje>
+            <img src="../../../img/hsr_character_clara.png" id="pj"></img>
+            <info>
+                <p><img src="../../../img/hsr_type_physical.png" id="type"></img></p>
+                <p><img src="../../../img/hsr_path_destruction.png" id="path"></img></p>
+            </info>
+            <set>
+                <img src="../../../img/hsr_artifact_champion_of_srteetwise_boxing.png" id="imgset"></img>
+                <img src="../../../img/hsr_artifact_space_sealing_station.png" id="imgset"></img>
+            </set>
+        </personaje>
+        <artefactos>
+            <artefacto>
+                <imagen>
+                    <img src="../../../img/hsr_artifact_head.png" id="imgartifact"></img>
+                </imagen>
+                <estadisticas>
+                    <stat>Prob. Crit</stat>
+                    <stat>Daño Critico</stat>
+                    <stat>Ataque %</stat>
+                    <stat>Maestria</stat>
+            </estadisticas>
+            </artefacto>
+            <artefacto>
+                <imagen>
+                    <img src="../../../img/hsr_artifact_body.png" id="imgartifact"></img>
+                </imagen>
+                <estadisticas>
+                    <stat>Prob. Crit</stat>
+                    <stat>Daño Critico</stat>
+                    <stat>Maestria</stat>
+            </estadisticas>
+            </artefacto>  
+            <artefacto>
+                <imagen>
+                    <img src="../../../img/hsr_artifact_hands.png" id="imgartifact"></img>
+                </imagen>
+                <estadisticas>
+                    <stat id="mainstat">Ataque% / Maestria</stat>
+                    <stat>Daño Critico</stat>
+                    <stat>Ataque %</stat>
+            </estadisticas>
+            </artefacto>    
+            <artefacto>
+                <imagen>
+                    <img src="../../../img/hsr_artifact_feet.png" id="imgartifact"></img>
+                </imagen>
+                <estadisticas>
+                    <stat id="mainstat">Daño Dendro</stat>
+                    <stat>Prob. Crit</stat>
+                    <stat>Daño Critico</stat>
+                    <stat>Ataque %</stat>
+                    <stat>Maestria</stat>
+            </estadisticas>
+            </artefacto>    
+            <artefacto>
+                <imagen>
+                    <img src="../../../img/hsr_artifact_planar_sphere.png" id="imgartifact"></img>
+                </imagen>
+                <estadisticas>
+                    <stat id="mainstat">Prob. Crit / Daño Critico</stat>
+                    <stat>Ataque %</stat>
+                    <stat>Maestria</stat>
+            </estadisticas>
+            </artefacto>  
+            <artefacto>
+                <imagen>
+                    <img src="../../../img/hsr_artifact__link_rope.png" id="imgartifact"></img>
+                </imagen>
+                <estadisticas>
+                    <stat id="mainstat">Prob. Crit / Daño Critico</stat>
+                    <stat>Ataque %</stat>
+                    <stat>Maestria</stat>
+            </estadisticas>
+            </artefacto>                                                
+        </artefactos>
+    </build>
+</builds>

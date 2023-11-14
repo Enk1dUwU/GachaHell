@@ -8,7 +8,7 @@ body
 .cabecera
 {
     width: 100%;
-    height: 15%;
+    height: 10%;
     background-color: #382b3d;
     display: flex;
     align-items: center;
@@ -40,7 +40,7 @@ body
 }
 #main
 {
-    flex-direction: row;
+    flex-direction: column;
 }
 .subcont
 {
@@ -49,11 +49,36 @@ body
     align-items: center;
     justify-content: center;
     margin-top: 1%;
-    width: 30%;
-    height: 30%;
-    background-color: #382b3d;
+    width: 40%;
+    background-color: rgba(178,177,192,.2);
+    border-radius: 15px;
+    overflow: hidden;
 }
-.subcont a {text-decoration: none; color: #c7bccc; font-size: 40px; font-weight: bold;}
+.subcont a
+{
+    text-decoration: none;
+    color: #c7bccc;
+    font-size: 40px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.subcont a p
+{
+    background-color: #382b3d;
+    text-align: center;
+    width: 100%;
+}
+#subcontimg_gi
+{
+    width: 90%;
+}
+#subcontimg_hsr
+{
+    width: 70%;
+}
 .bar
 {
     width: 80%;
@@ -66,6 +91,7 @@ body
     font-weight: bold;
     padding-top: 1%;
     padding-bottom: 1%;
+    border-radius: 15px;
 }
 .buildcont
 {
@@ -73,4 +99,8 @@ body
     margin-top: 1%;
     width: 100%;
     height: 600px;
+}
+iframe
+{
+    border-radius: 15px;
 }

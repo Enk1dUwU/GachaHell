@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE builds>
+<?xml-stylesheet href="../../../css/teams_hsr.css"?>
+
+<teams>
+    <team xmlns="http://www.w3.org/1999/xhtml">
+        <personaje>
+            <img src="../../../img/hsr_character_kafka.png" id="pj"></img>
+            <img src="../../../img/hsr_path_nihility.png" id="path1"></img>
+            <img src="../../../img/hsr_type_lightning.png" id="type1"></img>
+        </personaje>
+        <personaje>
+            <img src="../../../img/hsr_character_lynx.png" id="pj"></img>
+            <img src="../../../img/hsr_path_abundance.png" id="path2"></img>
+            <img src="../../../img/hsr_type_quantum.png" id="type2"></img>
+        </personaje>
+        <personaje>
+            <img src="../../../img/hsr_character_silver_wolf.png" id="pj"></img>
+            <img src="../../../img/hsr_path_nihility.png" id="path3"></img>
+            <img src="../../../img/hsr_type_quantum.png" id="type3"></img>
+        </personaje>
+        <personaje>
+            <img src="../../../img/hsr_character_sampo.png" id="pj"></img>
+            <img src="../../../img/hsr_path_nihility.png" id="path4"></img>
+            <img src="../../../img/hsr_type_wind.png" id="type4"></img>
+        </personaje>
+    </team>
+</teams>

@@ -1,0 +1,89 @@
+builds {background-color: #382b3d; color: #c7bccc;overflow: hidden;}
+build
+{
+    display: block;
+    margin-bottom: 2%;
+    width: 100%;
+    text-align: center;  
+}
+personaje
+{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    width: 60%;
+    font-size: 40px;
+    font-weight: bold;
+    float: left;
+}
+personaje nombre
+{
+    margin-bottom: 20%;
+}
+#pj
+{
+    width: 100%;
+}
+#type
+{
+    width: 120%;
+}
+#path
+{
+    width: 40%;
+}
+#imgset
+{
+    width: 50%;
+}
+info,set
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    width: 50%;
+}
+artefactos
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+artefacto
+{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+artefacto imagen
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+
+estadisticas
+{
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+    width: 70%;
+}
+#imgartifact
+{
+    width: 50%;
+}
+
+#mainstat
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
