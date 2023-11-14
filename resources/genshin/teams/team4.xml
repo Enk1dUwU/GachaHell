@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE builds>
+<?xml-stylesheet href="../../../css/teams.css"?>
+
+<teams>
+    <team xmlns="http://www.w3.org/1999/xhtml">
+        <personaje>
+            <img src="../../../img/gi_character_chongyun.png" id="pj"></img>
+            <img src="../../../img/gi_element_cryo.png" id="element1"></img>
+        </personaje>
+        <personaje>
+            <img src="../../../img/gi_character_xingqiu.png" id="pj"></img>
+            <img src="../../../img/gi_element_hydro.png" id="element2"></img>
+        </personaje>
+        <personaje>
+            <img src="../../../img/gi_character_sucrose.png" id="pj"></img>
+            <img src="../../../img/gi_element_anemo.png" id="element3"></img>
+        </personaje>
+        <personaje>
+            <img src="../../../img/gi_character_charlotte.png" id="pj"></img>
+            <img src="../../../img/gi_element_cryo.png" id="element4"></img>
+        </personaje>
+    </team>
+</teams>

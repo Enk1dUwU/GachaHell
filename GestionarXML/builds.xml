@@ -5,7 +5,8 @@
 
 <builds>
     <build xmlns="http://www.w3.org/1999/xhtml">
-        <personaje>
+    aaaaa
+        <personaje>aaa
             <img src="../../../img/gi_character_tignari.png" id="pj"></img>
             <nombre>Tignari</nombre>
             <p><img src="../../../img/gi_element_dendro.png" id="element"></img></p>

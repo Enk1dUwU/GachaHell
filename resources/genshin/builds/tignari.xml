@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE builds>
+<?xml-stylesheet href="../../../css/builds.css"?>
+
+<builds>
+    <build xmlns="http://www.w3.org/1999/xhtml">
+        <personaje>
+            <img src="../../../img/gi_character_tighnari.png" id="pj"></img>
+            <info>
+                <p><img src="../../../img/gi_element_dendro.png" id="element"></img></p>
+            </info>
+            <set>
+                <img src="../../../img/gi_artifacts_deepwoodmemories.png" id="imgset"></img>
+            </set>
+        </personaje>
+        <artefactos>
+            <artefacto>
+                <imagen>
+                    <img src="../../../img/gi_artifact_flower.png" id="imgartifact"></img>
+                </imagen>
+                <estadisticas>
+                    <stat>Prob. Crit</stat>
+                    <stat>Daño Critico</stat>
+                    <stat>Ataque %</stat>
+                    <stat>Maestria</stat>
+            </estadisticas>
+            </artefacto>
+            <artefacto>
+                <imagen>
+                    <img src="../../../img/gi_artifact_plume.png" id="imgartifact"></img>
+                </imagen>
+                <estadisticas>
+                    <stat>Prob. Crit</stat>
+                    <stat>Daño Critico</stat>
+                    <stat>Maestria</stat>
+            </estadisticas>
+            </artefacto>  
+            <artefacto>
+                <imagen>
+                    <img src="../../../img/gi_artifact_sands.png" id="imgartifact"></img>
+                </imagen>
+                <estadisticas>
+                    <stat id="mainstat">Ataque% / Maestria</stat>
+                    <stat>Daño Critico</stat>
+                    <stat>Ataque %</stat>
+            </estadisticas>
+            </artefacto>    
+            <artefacto>
+                <imagen>
+                    <img src="../../../img/gi_artifact_goblet.png" id="imgartifact"></img>
+                </imagen>
+                <estadisticas>
+                    <stat id="mainstat">Daño Dendro</stat>
+                    <stat>Prob. Crit</stat>
+                    <stat>Daño Critico</stat>
+                    <stat>Ataque %</stat>
+                    <stat>Maestria</stat>
+            </estadisticas>
+            </artefacto>    
+            <artefacto>
+                <imagen>
+                    <img src="../../../img/gi_artifact_circlet.png" id="imgartifact"></img>
+                </imagen>
+                <estadisticas>
+                    <stat id="mainstat">Prob. Crit / Daño Critico</stat>
+                    <stat>Ataque %</stat>
+                    <stat>Maestria</stat>
+            </estadisticas>
+            </artefacto>                                      
+        </artefactos>
+    </build>
+</builds>

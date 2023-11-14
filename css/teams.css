@@ -1,0 +1,50 @@
+builds {background-color: #382b3d; color: #c7bccc;overflow: hidden;}
+
+team
+{
+    display: flex;
+    flex-direction: row;
+}
+personaje
+{
+    width: 25%;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+#pj
+{
+    width: 347%;
+    position: relative;
+    left: -140%;
+    z-index: 98;
+
+}
+#element1
+{
+    z-index: 99;
+    position: absolute;
+    top: 75%;
+    left: 8%;
+}
+#element2
+{
+    z-index: 99;
+    position: absolute;
+    top: 75%;
+    left: 33%;
+}
+#element3
+{
+    z-index: 99;
+    position: absolute;
+    top: 75%;
+    left: 58%;
+}
+#element4
+{
+    z-index: 99;
+    position: absolute;
+    top: 75%;
+    left: 83%;
+}
