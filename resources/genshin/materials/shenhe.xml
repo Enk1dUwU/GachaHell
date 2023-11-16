@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE materials_sheet>
+<?xml-stylesheet href="../../../css/materials_gi.css"?>
+
+<materials_sheet>
+    <sheet xmlns="http://www.w3.org/1999/xhtml">
+        <b1>
+            <personaje>
+                <img src="../../../img/gi_character_shenhe.png" id="pj"></img>
+            </personaje>
+            <generico>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_pedacito_cryo.png" id="cristal"></img>
+                        <cantidad>1</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_fragmento_cryo.png" id="cristal"></img>
+                        <cantidad>9</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_trozo_cryo.png" id="cristal"></img>
+                        <cantidad>9</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_jade_cryo.png" id="cristal"></img>
+                        <cantidad>6</cantidad>
+                    </item>
+                </group>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_mora.png" id="misc"></img>
+                        <cantidad>7050030</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_experiencia.png" id="misc"></img>
+                        <cantidad>419</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_corona.png" id="misc"></img>
+                        <cantidad>3</cantidad>
+                    </item>                    
+                </group>                
+            </generico>
+        </b1>
+        <b2>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_nectar_1.png" id="misc"></img>
+                    <cantidad>36</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_nectar_2.png" id="misc"></img>
+                    <cantidad>96</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_nectar_3.png" id="misc"></img>
+                    <cantidad>129</cantidad>
+                </item> 
+            </group>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_prosperidad_1.png" id="misc"></img>
+                    <cantidad>9</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_prosperidad_2.png" id="misc"></img>
+                    <cantidad>63</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_prosperidad_3.png" id="misc"></img>
+                    <cantidad>114</cantidad>
+                </item> 
+            </group>     
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_mariposa_fuego_infernal.png" id="misc"></img>
+                    <cantidad>18</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_pseudoaleta_dargon_profundidades.png" id="misc"></img>
+                    <cantidad>46</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_flor_chingxin.png" id="misc"></img>
+                    <cantidad>168</cantidad>
+                </item> 
+            </group>                        
+        </b2>
+    </sheet>
+</materials_sheet>

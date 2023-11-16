@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE materials_sheet>
+<?xml-stylesheet href="../../../css/materials_gi.css"?>
+
+<materials_sheet>
+    <sheet xmlns="http://www.w3.org/1999/xhtml">
+        <b1>
+            <personaje>
+                <img src="../../../img/gi_character_wriothesley.png" id="pj"></img>
+            </personaje>
+            <generico>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_pedacito_cryo.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_fragmento_cryo.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_trozo_cryo.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_jade_cryo.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                </group>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_mora.png" id="misc"></img>
+                        <cantidad>4090000</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_experiencia.png" id="misc"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_corona.png" id="misc"></img>
+                        <cantidad>3</cantidad>
+                    </item>                    
+                </group>                
+            </generico>
+        </b1>
+        <b2>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_engranaje_1.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_engranaje_2.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_engranaje_3.png" id="misc"></img>
+                    <cantidad>79</cantidad>
+                </item> 
+            </group>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_orden_1.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_orden_2.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_orden_3.png" id="misc"></img>
+                    <cantidad>100</cantidad>
+                </item> 
+            </group>     
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_floracion_primigenea.png" id="misc"></img>
+                    <cantidad>15</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_dispositivo_tubion.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_items_unidad_subdeteccion.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+            </group>                        
+        </b2>
+    </sheet>
+</materials_sheet>

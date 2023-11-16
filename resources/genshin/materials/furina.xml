@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE materials_sheet>
+<?xml-stylesheet href="../../../css/materials_gi.css"?>
+
+<materials_sheet>
+    <sheet xmlns="http://www.w3.org/1999/xhtml">
+        <b1>
+            <personaje>
+                <img src="../../../img/gi_character_furina.png" id="pj"></img>
+            </personaje>
+            <generico>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_pedacito_hydro.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_fragmento_hydro.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_trozo_hydro.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_jade_hydro.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                </group>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_mora.png" id="misc"></img>
+                        <cantidad>3085490</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_experiencia.png" id="misc"></img>
+                        <cantidad>162</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_corona.png" id="misc"></img>
+                        <cantidad>0</cantidad>
+                    </item>                    
+                </group>                
+            </generico>
+        </b1>
+        <b2>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_nectar_1.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_nectar_2.png" id="misc"></img>
+                    <cantidad>15</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_nectar_3.png" id="misc"></img>
+                    <cantidad>53</cantidad>
+                </item> 
+            </group>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_justicia_1.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_justicia_2.png" id="misc"></img>
+                    <cantidad>15</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_justicia_3.png" id="misc"></img>
+                    <cantidad>62</cantidad>
+                </item> 
+            </group>     
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_masa_deslucida.png" id="misc"></img>
+                    <cantidad>11</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_agua_intrascendible.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_lirio_lumilago.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+            </group>                        
+        </b2>
+    </sheet>
+</materials_sheet>

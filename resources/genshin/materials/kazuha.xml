@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE materials_sheet>
+<?xml-stylesheet href="../../../css/materials_gi.css"?>
+
+<materials_sheet>
+    <sheet xmlns="http://www.w3.org/1999/xhtml">
+        <b1>
+            <personaje>
+                <img src="../../../img/gi_character_kazuha.png" id="pj"></img>
+            </personaje>
+            <generico>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_pedacito_anemo.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_fragmento_anemo.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_trozo_anemo.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_jade_anemo.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                </group>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_mora.png" id="misc"></img>
+                        <cantidad>3640000</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_experiencia.png" id="misc"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_corona.png" id="misc"></img>
+                        <cantidad>3</cantidad>
+                    </item>                    
+                </group>                
+            </generico>
+        </b1>
+        <b2>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_insignia_1.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_insignia_2.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_insignia_3.png" id="misc"></img>
+                    <cantidad>70</cantidad>
+                </item> 
+            </group>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_esfuerzo_1.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_esfuerzo_2.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_esfuerzo_3.png" id="misc"></img>
+                    <cantidad>88</cantidad>
+                </item> 
+            </group>     
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_escama_dorada.png" id="misc"></img>
+                    <cantidad>13</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_engranaje_oni.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_hongo_marino.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+            </group>                        
+        </b2>
+    </sheet>
+</materials_sheet>

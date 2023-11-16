@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE materials_sheet>
+<?xml-stylesheet href="../../../css/materials_gi.css"?>
+
+<materials_sheet>
+    <sheet xmlns="http://www.w3.org/1999/xhtml">
+        <b1>
+            <personaje>
+                <img src="../../../img/gi_character_tighnari.png" id="pj"></img>
+            </personaje>
+            <generico>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_pedacito_dendro.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_fragmento_dendro.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_trozo_dendro.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_jade_dendro.png" id="cristal"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                </group>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_mora.png" id="misc"></img>
+                        <cantidad>2370000</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_experiencia.png" id="misc"></img>
+                        <cantidad>0</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_corona.png" id="misc"></img>
+                        <cantidad>0</cantidad>
+                    </item>                    
+                </group>                
+            </generico>
+        </b1>
+        <b2>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_espora_1.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_espora_2.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_espora_3.png" id="misc"></img>
+                    <cantidad>53</cantidad>
+                </item> 
+            </group>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_exhortacion_1.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_exhortacion_2.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_exhortacion_3.png" id="misc"></img>
+                    <cantidad>62</cantidad>
+                </item> 
+            </group>     
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_maxima_catastrofe.png" id="misc"></img>
+                    <cantidad>11</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_picogancho_fungico.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_loto_nilotpala.png" id="misc"></img>
+                    <cantidad>0</cantidad>
+                </item> 
+            </group>                        
+        </b2>
+    </sheet>
+</materials_sheet>

@@ -1,24 +1,24 @@
 window.onload= function()
 {
-    let builds = ["clara"];
-    for (let i = 0; i < builds.length; i++)
+    let materials = ["furina","wriothesley","kazuha","charlotte","sacarosa","chongyun","tighnari","laila","shenhe"];
+    for (let i = 0; i < materials.length; i++)
     {
       //crear el div
       var nuevoDiv = document.createElement('div');
       nuevoDiv.className = 'framecont';
-        //crear el p
+      //crear el p
       var nuevoP = document.createElement('p');
       nuevoP.className = 'subcont_nombre';
-      var n = builds[i];
+      var n = materials[i];
       var nombre = n.replace(n[0],n[0].toUpperCase())
       nuevoP.innerHTML = nombre;
       //crear el frame
       var nuevoFrame = document.createElement('iframe');
-      nuevoFrame.src = 'builds/' + builds[i] + '.xml';
+      nuevoFrame.src = 'materials/' + materials[i] + '.xml';
       nuevoFrame.width = '60%';
       nuevoFrame.height = '100%';
-      //añadir el frame al div
-      nuevoDiv.appendChild(nuevoP);      
+      //añadir el p y el frame al div
+      nuevoDiv.appendChild(nuevoP);
       nuevoDiv.appendChild(nuevoFrame);
       //coger el div contenido
       var cont = document.getElementsByClassName('contenido')[0];
