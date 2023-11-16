@@ -1,6 +1,6 @@
 window.onload= function()
 {
-    let materials = [];
+    let materials = ["hanya"];
     for (let i = 0; i < materials.length; i++)
     {
       //crear el div

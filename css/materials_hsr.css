@@ -1,0 +1,66 @@
+materials_sheet {background-color: #382b3d; color: #c7bccc;overflow: hidden;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+sheet
+{
+    display: block;
+    margin-bottom: 2%;
+    width: 100%;
+    text-align: center;  
+}
+b1, b2
+{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    float: left;
+    justify-content: center;
+    align-items: center;
+}
+personaje
+{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 40px;
+    font-weight: bold;
+    float: left;
+}
+#pj
+{
+    width: 100%;
+}
+generico
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+group
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+cantidad
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+#generic
+{
+    width: 70%;
+}
+#misc
+{
+    width: 40%;
+}
+b2 #misc
+{
+    width: 80%;
+}

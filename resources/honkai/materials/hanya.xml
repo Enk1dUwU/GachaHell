@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE materials_sheet>
+<?xml-stylesheet href="../../../css/materials_hsr.css"?>
+
+<materials_sheet>
+    <sheet xmlns="http://www.w3.org/1999/xhtml">
+        <b1>
+            <personaje>
+                <img src="../../../img/hsr_character_hanya.png" id="pj"></img>
+            </personaje>
+            <generico>
+                <group>
+                    <item>
+                        <img src="../../../img/hsr_item_creditos.png" id="generic"></img>
+                        <cantidad>3234400</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/hsr_item_experiencia.png" id="generic"></img>
+                        <cantidad>294</cantidad>
+                    </item>
+                </group>               
+            </generico>
+        </b1>
+        <b2>
+            <group>
+                <item>
+                    <img src="../../../img/hsr_item_componente_mecanico_1.png" id="misc"></img>
+                    <cantidad>40</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/hsr_item_componente_mecanico_2.png" id="misc"></img>
+                    <cantidad>55</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/hsr_item_componente_mecanico_3.png" id="misc"></img>
+                    <cantidad>54</cantidad>
+                </item> 
+            </group>
+            <group>
+                <item>
+                    <img src="../../../img/hsr_item_armonia_1.png" id="misc"></img>
+                    <cantidad>12</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/hsr_item_armonia_2.png" id="misc"></img>
+                    <cantidad>54</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/hsr_item_armonia_3.png" id="misc"></img>
+                    <cantidad>105</cantidad>
+                </item> 
+            </group>     
+            <group>
+                <item>
+                    <img src="../../../img/hsr_item_arrepentimiento_eterno.png" id="misc"></img>
+                    <cantidad>12</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/hsr_item_huellas_destino.png" id="misc"></img>
+                    <cantidad>5</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/null_item.png" id="misc"></img>
+                    <cantidad>50</cantidad>
+                </item> 
+            </group>                        
+        </b2>
+    </sheet>
+</materials_sheet>

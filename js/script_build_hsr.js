@@ -1,6 +1,6 @@
 window.onload= function()
 {
-    let builds = ["clara"];
+    let builds = ["hanya","clara"];
     for (let i = 0; i < builds.length; i++)
     {
       //crear el div
