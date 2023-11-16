@@ -31,11 +31,11 @@
                 <group>
                     <item>
                         <img src="../../../img/gi_item_mora.png" id="misc"></img>
-                        <cantidad>7050030</cantidad>
+                        <cantidad>3792000</cantidad>
                     </item>
                     <item>
                         <img src="../../../img/gi_item_experiencia.png" id="misc"></img>
-                        <cantidad>419</cantidad>
+                        <cantidad>252</cantidad>
                     </item>
                     <item>
                         <img src="../../../img/gi_item_corona.png" id="misc"></img>
@@ -47,44 +47,44 @@
         <b2>
             <group>
                 <item>
-                    <img src="../../../img/gi_item_nectar_1.png" id="misc"></img>
-                    <cantidad>36</cantidad>
+                    <img src="../../../img/gi_item_mascara_1.png" id="misc"></img>
+                    <cantidad>0</cantidad>
                 </item> 
                 <item>
-                    <img src="../../../img/gi_item_nectar_2.png" id="misc"></img>
-                    <cantidad>96</cantidad>
+                    <img src="../../../img/gi_item_mascara_2.png" id="misc"></img>
+                    <cantidad>18</cantidad>
                 </item> 
                 <item>
-                    <img src="../../../img/gi_item_nectar_3.png" id="misc"></img>
-                    <cantidad>129</cantidad>
+                    <img src="../../../img/gi_item_mascara_3.png" id="misc"></img>
+                    <cantidad>93</cantidad>
                 </item> 
             </group>
             <group>
                 <item>
-                    <img src="../../../img/gi_item_prosperidad_1.png" id="misc"></img>
-                    <cantidad>9</cantidad>
+                    <img src="../../../img/gi_item_esfuerzo_1.png" id="misc"></img>
+                    <cantidad>0</cantidad>
                 </item> 
                 <item>
-                    <img src="../../../img/gi_item_prosperidad_2.png" id="misc"></img>
-                    <cantidad>63</cantidad>
+                    <img src="../../../img/gi_item_esfuerzo_2.png" id="misc"></img>
+                    <cantidad>18</cantidad>
                 </item> 
                 <item>
-                    <img src="../../../img/gi_item_prosperidad_3.png" id="misc"></img>
-                    <cantidad>114</cantidad>
+                    <img src="../../../img/gi_item_esfuerzo_3.png" id="misc"></img>
+                    <cantidad>66</cantidad>
                 </item> 
             </group>     
             <group>
                 <item>
-                    <img src="../../../img/gi_item_mariposa_fuego_infernal.png" id="misc"></img>
-                    <cantidad>18</cantidad>
+                    <img src="../../../img/gi_item_suspiro_stormterror.png" id="misc"></img>
+                    <cantidad>12</cantidad>
                 </item> 
                 <item>
-                    <img src="../../../img/gi_item_pseudoaleta_dargon_profundidades.png" id="misc"></img>
-                    <cantidad>46</cantidad>
+                    <img src="../../../img/gi_item_nucleo_escarcha.png" id="misc"></img>
+                    <cantidad>32</cantidad>
                 </item> 
                 <item>
-                    <img src="../../../img/gi_item_flor_chingxin.png" id="misc"></img>
-                    <cantidad>168</cantidad>
+                    <img src="../../../img/gi_item_cor_lapis.png" id="misc"></img>
+                    <cantidad>105</cantidad>
                 </item> 
             </group>                        
         </b2>
