@@ -31,7 +31,7 @@
                 <group>
                     <item>
                         <img src="../../../img/gi_item_mora.png" id="misc"></img>
-                        <cantidad>3085490</cantidad>
+                        <cantidad>2965490</cantidad>
                     </item>
                     <item>
                         <img src="../../../img/gi_item_experiencia.png" id="misc"></img>
@@ -56,7 +56,7 @@
                 </item> 
                 <item>
                     <img src="../../../img/gi_item_nectar_3.png" id="misc"></img>
-                    <cantidad>53</cantidad>
+                    <cantidad>49</cantidad>
                 </item> 
             </group>
             <group>
@@ -70,13 +70,13 @@
                 </item> 
                 <item>
                     <img src="../../../img/gi_item_justicia_3.png" id="misc"></img>
-                    <cantidad>62</cantidad>
+                    <cantidad>58</cantidad>
                 </item> 
             </group>     
             <group>
                 <item>
                     <img src="../../../img/gi_item_masa_deslucida.png" id="misc"></img>
-                    <cantidad>11</cantidad>
+                    <cantidad>10</cantidad>
                 </item> 
                 <item>
                     <img src="../../../img/gi_item_agua_intrascendible.png" id="misc"></img>

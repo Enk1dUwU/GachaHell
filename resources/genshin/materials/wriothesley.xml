@@ -31,7 +31,7 @@
                 <group>
                     <item>
                         <img src="../../../img/gi_item_mora.png" id="misc"></img>
-                        <cantidad>4090000</cantidad>
+                        <cantidad>3830000</cantidad>
                     </item>
                     <item>
                         <img src="../../../img/gi_item_experiencia.png" id="misc"></img>
@@ -56,7 +56,7 @@
                 </item> 
                 <item>
                     <img src="../../../img/gi_item_engranaje_3.png" id="misc"></img>
-                    <cantidad>79</cantidad>
+                    <cantidad>73</cantidad>
                 </item> 
             </group>
             <group>
@@ -70,13 +70,13 @@
                 </item> 
                 <item>
                     <img src="../../../img/gi_item_orden_3.png" id="misc"></img>
-                    <cantidad>100</cantidad>
+                    <cantidad>94</cantidad>
                 </item> 
             </group>     
             <group>
                 <item>
                     <img src="../../../img/gi_item_floracion_primigenea.png" id="misc"></img>
-                    <cantidad>15</cantidad>
+                    <cantidad>14</cantidad>
                 </item> 
                 <item>
                     <img src="../../../img/gi_item_dispositivo_tubion.png" id="misc"></img>

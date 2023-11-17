@@ -31,7 +31,7 @@
                 <group>
                     <item>
                         <img src="../../../img/gi_item_mora.png" id="misc"></img>
-                        <cantidad>3640000</cantidad>
+                        <cantidad>3380000</cantidad>
                     </item>
                     <item>
                         <img src="../../../img/gi_item_experiencia.png" id="misc"></img>
@@ -56,7 +56,7 @@
                 </item> 
                 <item>
                     <img src="../../../img/gi_item_insignia_3.png" id="misc"></img>
-                    <cantidad>70</cantidad>
+                    <cantidad>64</cantidad>
                 </item> 
             </group>
             <group>
@@ -70,13 +70,13 @@
                 </item> 
                 <item>
                     <img src="../../../img/gi_item_esfuerzo_3.png" id="misc"></img>
-                    <cantidad>88</cantidad>
+                    <cantidad>82</cantidad>
                 </item> 
             </group>     
             <group>
                 <item>
                     <img src="../../../img/gi_item_escama_dorada.png" id="misc"></img>
-                    <cantidad>13</cantidad>
+                    <cantidad>12</cantidad>
                 </item> 
                 <item>
                     <img src="../../../img/gi_item_engranaje_oni.png" id="misc"></img>

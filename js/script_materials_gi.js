@@ -1,6 +1,6 @@
 window.onload= function()
 {
-    let materials = ["furina","wriothesley","kazuha","charlotte","sacarosa","chongyun","tighnari","laila","shenhe"];
+    let materials = ["furina","wriothesley","kazuha","charlotte","sacarosa","chongyun","tighnari","laila","shenhe","albedo"];
     for (let i = 0; i < materials.length; i++)
     {
       //crear el div

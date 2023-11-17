@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE materials_sheet>
+<?xml-stylesheet href="../../../css/materials_gi.css"?>
+
+<materials_sheet>
+    <sheet xmlns="http://www.w3.org/1999/xhtml">
+        <b1>
+            <personaje>
+                <img src="../../../img/gi_character_albedo.png" id="pj"></img>
+            </personaje>
+            <generico>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_pedacito_geo.png" id="cristal"></img>
+                        <cantidad>1</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_fragmento_geo.png" id="cristal"></img>
+                        <cantidad>9</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_trozo_geo.png" id="cristal"></img>
+                        <cantidad>9</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_jade_geo.png" id="cristal"></img>
+                        <cantidad>6</cantidad>
+                    </item>
+                </group>
+                <group>
+                    <item>
+                        <img src="../../../img/gi_item_mora.png" id="misc"></img>
+                        <cantidad>7050030</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_experiencia.png" id="misc"></img>
+                        <cantidad>419</cantidad>
+                    </item>
+                    <item>
+                        <img src="../../../img/gi_item_corona.png" id="misc"></img>
+                        <cantidad>3</cantidad>
+                    </item>                    
+                </group>                
+            </generico>
+        </b1>
+        <b2>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_pergamino_1.png" id="misc"></img>
+                    <cantidad>36</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_pergamino_2.png" id="misc"></img>
+                    <cantidad>96</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_pergamino_3.png" id="misc"></img>
+                    <cantidad>129</cantidad>
+                </item> 
+            </group>
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_poesia_1.png" id="misc"></img>
+                    <cantidad>9</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_poesia_2.png" id="misc"></img>
+                    <cantidad>63</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_poesia_3.png" id="misc"></img>
+                    <cantidad>114</cantidad>
+                </item> 
+            </group>     
+            <group>
+                <item>
+                    <img src="../../../img/gi_item_cuerno_monoceros.png" id="misc"></img>
+                    <cantidad>18</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img//gi_item_pilar_basalto.png" id="misc"></img>
+                    <cantidad>46</cantidad>
+                </item> 
+                <item>
+                    <img src="../../../img/gi_item_cecilia.png" id="misc"></img>
+                    <cantidad>168</cantidad>
+                </item> 
+            </group>                        
+        </b2>
+    </sheet>
+</materials_sheet>
